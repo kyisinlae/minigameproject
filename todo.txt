@@ -1,0 +1,26 @@
+Project Name: Mini Games & Tools
+
+Menu
+- Games
+	- Color Game
+	- Dice Roll Game
+	- Question Game
+- Tools
+	- Color Picker
+	- Age Calculator
+- Exit
+- Help
+	- About
+
+
+
+****************************
+Color Game
+https://timetoprogram.com/color-game-using-python-tkinter/
+
+Dice Roll Game
+https://game-icons.net/tags/dice.html
+https://www.biochemithon.in/python-tutorials/project/python-dice-rolling-simulator-gui/
+
+Color Picker
+https://www.geeksforgeeks.org/python-tkinter-choose-color-dialog/
